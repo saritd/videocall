@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -43,6 +44,7 @@ public class OpponentsActivity extends BaseActivity {
     private QbUsersDbManager dbManager;
     private boolean isRunForCall;
     private WebRtcSessionManager webRtcSessionManager;
+    private Button opponentCallButton;
 
     private PermissionsChecker checker;
 
@@ -136,6 +138,13 @@ public class OpponentsActivity extends BaseActivity {
 
     private void initUi() {
         opponentsListView = (ListView) findViewById(R.id.list_opponents);
+        opponentCallButton = (Button) findViewById(R.id.call_opponent_button);
+        opponentCallButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startCall(false);
+            }
+        });
     }
 
     private boolean isCurrentOpponentsListActual(ArrayList<QBUser> actualCurrentOpponentsList) {

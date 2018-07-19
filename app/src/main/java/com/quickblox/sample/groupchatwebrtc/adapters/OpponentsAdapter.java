@@ -65,6 +65,16 @@ public class OpponentsAdapter extends BaseSelectableListAdapter<QBUser> {
             }
         });
 
+        convertView.setOnLongClickListener(new View.OnLongClickListener() {
+
+            public boolean onLongClick(View v) {
+
+
+                return true;
+            }
+
+        });
+
         return convertView;
     }
 
