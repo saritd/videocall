@@ -1,0 +1,652 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:1-95:12
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/932715260bcf54df1efb912a26fd8a36/AndroidManifest.xml:2:1-10:12
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7e3a3e5e286500861f2624f8bd3a8783/AndroidManifest.xml:17:1-31:12
+MERGED from [com.quickblox:quickblox-android-sdk-videochat-webrtc:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-videochat-webrtc-3.7.0.aar/b590b1ec31231222322b8e4c03f19b70/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/12e9540706085faf7e3558d8071015c7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b959691c892cfbf2def5e4f4d78f30c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2c764323792d9ee4ff3304e9b4404342/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/711d6baa2874e1fd690f1c0dca30f09b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/73eda58c4189974b84f1bc022696afce/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/91fdb99b111ab7805db94bebe0ccdd3c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a09a4dfe43d79adf0f6da6c1fbc377d4/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/91dc64d7894ab3f085d8f68d732c1716/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/49618b14ee3d04c30aef562fab35425b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4140c947a3372aa5ed879fb8488e56c3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8240f5fe6d86b4f5d4769b5a3dbd615d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ceab0d053ef8224f776873ba7b4f4afb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b2a557d3e02daf0cf97e8f268203dc6a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a6f777786b759a3803e5e32fdeb5146/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f09171c17b531ba34dc44de50a7f658a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a70e82f584acfe25b06dc9894dd2d6a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c3d4ef5ebcf05761562da6cda8d7b6e6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/5c8883b9be767f6e48c594f35050f4df/AndroidManifest.xml:2:1-11:12
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/d36962c07507892062bace2f167a4197/AndroidManifest.xml:2:1-14:12
+MERGED from [com.quickblox:quickblox-android-sdk-core:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-core-3.7.0.aar/1fd358b7bce2adde96c621aa19366dcb/AndroidManifest.xml:2:1-10:12
+MERGED from [org.webrtc:google-webrtc:1.0.21217] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.21217.aar/b781dd8b762618929c928c5de84ab774/AndroidManifest.xml:11:1-14:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/9932808f74c3a32f082675e6eaca1f72/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/9fd5a31e3e9cbc546d0c0776acab198f/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fed82e977f8d0d6ba211ae0a0c897d5/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/caf284ea130b600a7f206942682cfba0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/46cbf03339c217c81db667354dd10038/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/dd52bf4ac15eb2d071141fc2d5ebce8d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/3368d0551e8f66a2312fe9598827c9eb/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f6cb5d1bf0823c174379a64cd8a6444e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/16145cabaa356ac3d3d097a206e94842/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/08727ee066d22d8d64e545a467552882/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/78bd06b29517dee144fdeec2ed333748/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:4:5-51
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:1-95:12
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:1-95:12
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/73eda58c4189974b84f1bc022696afce/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/73eda58c4189974b84f1bc022696afce/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/91fdb99b111ab7805db94bebe0ccdd3c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/91fdb99b111ab7805db94bebe0ccdd3c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:23:5-67
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/d36962c07507892062bace2f167a4197/AndroidManifest.xml:11:5-67
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/d36962c07507892062bace2f167a4197/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:11:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:13:22-73
+uses-feature#android.hardware.camera
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:15:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:16:19-67
+uses-feature#0x00020000
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:18:5-20:35
+	android:glEsVersion
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:19:9-41
+	android:required
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:20:9-32
+application
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:22:5-93:19
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/932715260bcf54df1efb912a26fd8a36/AndroidManifest.xml:8:5-20
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/932715260bcf54df1efb912a26fd8a36/AndroidManifest.xml:8:5-20
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:10:5-24:19
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support:design:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7e3a3e5e286500861f2624f8bd3a8783/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7e3a3e5e286500861f2624f8bd3a8783/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/12e9540706085faf7e3558d8071015c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/12e9540706085faf7e3558d8071015c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b959691c892cfbf2def5e4f4d78f30c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b959691c892cfbf2def5e4f4d78f30c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2c764323792d9ee4ff3304e9b4404342/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2c764323792d9ee4ff3304e9b4404342/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/711d6baa2874e1fd690f1c0dca30f09b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/711d6baa2874e1fd690f1c0dca30f09b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/73eda58c4189974b84f1bc022696afce/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/73eda58c4189974b84f1bc022696afce/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/91fdb99b111ab7805db94bebe0ccdd3c/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/91fdb99b111ab7805db94bebe0ccdd3c/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a09a4dfe43d79adf0f6da6c1fbc377d4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a09a4dfe43d79adf0f6da6c1fbc377d4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/91dc64d7894ab3f085d8f68d732c1716/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/91dc64d7894ab3f085d8f68d732c1716/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/49618b14ee3d04c30aef562fab35425b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/49618b14ee3d04c30aef562fab35425b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4140c947a3372aa5ed879fb8488e56c3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4140c947a3372aa5ed879fb8488e56c3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8240f5fe6d86b4f5d4769b5a3dbd615d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8240f5fe6d86b4f5d4769b5a3dbd615d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ceab0d053ef8224f776873ba7b4f4afb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ceab0d053ef8224f776873ba7b4f4afb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b2a557d3e02daf0cf97e8f268203dc6a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b2a557d3e02daf0cf97e8f268203dc6a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a6f777786b759a3803e5e32fdeb5146/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a6f777786b759a3803e5e32fdeb5146/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f09171c17b531ba34dc44de50a7f658a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f09171c17b531ba34dc44de50a7f658a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a70e82f584acfe25b06dc9894dd2d6a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a70e82f584acfe25b06dc9894dd2d6a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c3d4ef5ebcf05761562da6cda8d7b6e6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c3d4ef5ebcf05761562da6cda8d7b6e6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/5c8883b9be767f6e48c594f35050f4df/AndroidManifest.xml:9:5-20
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/5c8883b9be767f6e48c594f35050f4df/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/9932808f74c3a32f082675e6eaca1f72/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/9932808f74c3a32f082675e6eaca1f72/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/9fd5a31e3e9cbc546d0c0776acab198f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/9fd5a31e3e9cbc546d0c0776acab198f/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fed82e977f8d0d6ba211ae0a0c897d5/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fed82e977f8d0d6ba211ae0a0c897d5/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/caf284ea130b600a7f206942682cfba0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/caf284ea130b600a7f206942682cfba0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/46cbf03339c217c81db667354dd10038/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/46cbf03339c217c81db667354dd10038/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/dd52bf4ac15eb2d071141fc2d5ebce8d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/dd52bf4ac15eb2d071141fc2d5ebce8d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/3368d0551e8f66a2312fe9598827c9eb/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/3368d0551e8f66a2312fe9598827c9eb/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f6cb5d1bf0823c174379a64cd8a6444e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f6cb5d1bf0823c174379a64cd8a6444e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/16145cabaa356ac3d3d097a206e94842/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/16145cabaa356ac3d3d097a206e94842/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/08727ee066d22d8d64e545a467552882/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/08727ee066d22d8d64e545a467552882/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/78bd06b29517dee144fdeec2ed333748/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/78bd06b29517dee144fdeec2ed333748/AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:28:9-48
+	android:icon
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:24:9-36
+	android:theme
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:23:9-28
+meta-data#android.support.VERSION
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:31:9-34:38
+MERGED from [com.android.support:design:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7e3a3e5e286500861f2624f8bd3a8783/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7e3a3e5e286500861f2624f8bd3a8783/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/12e9540706085faf7e3558d8071015c7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/12e9540706085faf7e3558d8071015c7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b959691c892cfbf2def5e4f4d78f30c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b959691c892cfbf2def5e4f4d78f30c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2c764323792d9ee4ff3304e9b4404342/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2c764323792d9ee4ff3304e9b4404342/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/711d6baa2874e1fd690f1c0dca30f09b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/711d6baa2874e1fd690f1c0dca30f09b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8240f5fe6d86b4f5d4769b5a3dbd615d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8240f5fe6d86b4f5d4769b5a3dbd615d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ceab0d053ef8224f776873ba7b4f4afb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ceab0d053ef8224f776873ba7b4f4afb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b2a557d3e02daf0cf97e8f268203dc6a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b2a557d3e02daf0cf97e8f268203dc6a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a6f777786b759a3803e5e32fdeb5146/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a6f777786b759a3803e5e32fdeb5146/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f09171c17b531ba34dc44de50a7f658a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f09171c17b531ba34dc44de50a7f658a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a70e82f584acfe25b06dc9894dd2d6a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a70e82f584acfe25b06dc9894dd2d6a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c3d4ef5ebcf05761562da6cda8d7b6e6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c3d4ef5ebcf05761562da6cda8d7b6e6/AndroidManifest.xml:26:9-28:38
+	tools:replace
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:32:13-42
+	android:value
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:34:13-35
+		REJECTED from [com.android.support:design:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7e3a3e5e286500861f2624f8bd3a8783/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:recyclerview-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/12e9540706085faf7e3558d8071015c7/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:transition:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b959691c892cfbf2def5e4f4d78f30c/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:appcompat-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2c764323792d9ee4ff3304e9b4404342/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:animated-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/711d6baa2874e1fd690f1c0dca30f09b/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-v4:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8240f5fe6d86b4f5d4769b5a3dbd615d/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-fragment:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ceab0d053ef8224f776873ba7b4f4afb/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-core-ui:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b2a557d3e02daf0cf97e8f268203dc6a/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a6f777786b759a3803e5e32fdeb5146/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-media-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f09171c17b531ba34dc44de50a7f658a/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-core-utils:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a70e82f584acfe25b06dc9894dd2d6a/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c3d4ef5ebcf05761562da6cda8d7b6e6/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:33:13-51
+activity#com.quickblox.sample.groupchatwebrtc.activities.SplashActivity
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:35:9-42:20
+	android:screenOrientation
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:36:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:40:27-74
+activity#com.quickblox.sample.groupchatwebrtc.activities.LoginActivity
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:44:13-53
+activity#com.quickblox.sample.groupchatwebrtc.activities.OpponentsActivity
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:47:9-51:52
+	android:screenOrientation
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:51:13-49
+	android:launchMode
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:50:13-44
+	android:configChanges
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:48:13-57
+activity#com.quickblox.sample.groupchatwebrtc.activities.PermissionsActivity
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:52:9-68
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:52:19-65
+activity#com.quickblox.sample.groupchatwebrtc.activities.CallActivity
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:53:9-57:47
+	android:screenOrientation
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:56:13-49
+	android:configChanges
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:55:13-74
+	android:theme
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:57:13-44
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:54:13-52
+activity#com.quickblox.sample.groupchatwebrtc.activities.SettingsActivity
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:59:13-56
+service#com.quickblox.sample.groupchatwebrtc.services.CallService
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:63:9-57
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:63:18-54
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:65:9-75:20
+	android:exported
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:67:13-36
+	android:permission
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:68:13-73
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:66:13-66
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.quickblox.sample.groupchatwebrtc
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:69:13-74:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:70:17-81
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:70:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:71:17-86
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:71:25-83
+category#com.quickblox.sample.groupchatwebrtc
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:73:17-81
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:73:27-78
+service#com.quickblox.sample.groupchatwebrtc.services.gcm.GcmPushListenerService
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:77:9-83:19
+	android:exported
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:78:13-64
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:80:13-82:29
+meta-data#com.quickblox.messages.TYPE
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:85:9-85
+	android:value
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:85:63-82
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:85:20-62
+meta-data#com.quickblox.messages.SENDER_ID
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:86:9-104
+	android:value
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:86:68-101
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:86:20-67
+meta-data#com.quickblox.messages.QB_ENVIRONMENT
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:87:9-103
+	android:value
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:87:73-100
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:87:20-72
+meta-data#com.google.android.gms.version
+ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:89:9-91:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4140c947a3372aa5ed879fb8488e56c3/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4140c947a3372aa5ed879fb8488e56c3/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:91:13-66
+	android:name
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml:90:13-58
+uses-sdk
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/932715260bcf54df1efb912a26fd8a36/AndroidManifest.xml:6:5-44
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/932715260bcf54df1efb912a26fd8a36/AndroidManifest.xml:6:5-44
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7e3a3e5e286500861f2624f8bd3a8783/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7e3a3e5e286500861f2624f8bd3a8783/AndroidManifest.xml:21:5-23:62
+MERGED from [com.quickblox:quickblox-android-sdk-videochat-webrtc:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-videochat-webrtc-3.7.0.aar/b590b1ec31231222322b8e4c03f19b70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-videochat-webrtc:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-videochat-webrtc-3.7.0.aar/b590b1ec31231222322b8e4c03f19b70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/12e9540706085faf7e3558d8071015c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/12e9540706085faf7e3558d8071015c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b959691c892cfbf2def5e4f4d78f30c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b959691c892cfbf2def5e4f4d78f30c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2c764323792d9ee4ff3304e9b4404342/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2c764323792d9ee4ff3304e9b4404342/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/711d6baa2874e1fd690f1c0dca30f09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/711d6baa2874e1fd690f1c0dca30f09b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/73eda58c4189974b84f1bc022696afce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/73eda58c4189974b84f1bc022696afce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/91fdb99b111ab7805db94bebe0ccdd3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/91fdb99b111ab7805db94bebe0ccdd3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a09a4dfe43d79adf0f6da6c1fbc377d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a09a4dfe43d79adf0f6da6c1fbc377d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/91dc64d7894ab3f085d8f68d732c1716/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/91dc64d7894ab3f085d8f68d732c1716/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/49618b14ee3d04c30aef562fab35425b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/49618b14ee3d04c30aef562fab35425b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4140c947a3372aa5ed879fb8488e56c3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4140c947a3372aa5ed879fb8488e56c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8240f5fe6d86b4f5d4769b5a3dbd615d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8240f5fe6d86b4f5d4769b5a3dbd615d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ceab0d053ef8224f776873ba7b4f4afb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ceab0d053ef8224f776873ba7b4f4afb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b2a557d3e02daf0cf97e8f268203dc6a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b2a557d3e02daf0cf97e8f268203dc6a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a6f777786b759a3803e5e32fdeb5146/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a6f777786b759a3803e5e32fdeb5146/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f09171c17b531ba34dc44de50a7f658a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f09171c17b531ba34dc44de50a7f658a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a70e82f584acfe25b06dc9894dd2d6a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a70e82f584acfe25b06dc9894dd2d6a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c3d4ef5ebcf05761562da6cda8d7b6e6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c3d4ef5ebcf05761562da6cda8d7b6e6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/5c8883b9be767f6e48c594f35050f4df/AndroidManifest.xml:7:5-43
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/5c8883b9be767f6e48c594f35050f4df/AndroidManifest.xml:7:5-43
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/d36962c07507892062bace2f167a4197/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/d36962c07507892062bace2f167a4197/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-core:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-core-3.7.0.aar/1fd358b7bce2adde96c621aa19366dcb/AndroidManifest.xml:6:5-8:41
+MERGED from [com.quickblox:quickblox-android-sdk-core:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-core-3.7.0.aar/1fd358b7bce2adde96c621aa19366dcb/AndroidManifest.xml:6:5-8:41
+MERGED from [org.webrtc:google-webrtc:1.0.21217] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.21217.aar/b781dd8b762618929c928c5de84ab774/AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.21217] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.21217.aar/b781dd8b762618929c928c5de84ab774/AndroidManifest.xml:13:3-72
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/9932808f74c3a32f082675e6eaca1f72/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/9932808f74c3a32f082675e6eaca1f72/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/9fd5a31e3e9cbc546d0c0776acab198f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/9fd5a31e3e9cbc546d0c0776acab198f/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fed82e977f8d0d6ba211ae0a0c897d5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fed82e977f8d0d6ba211ae0a0c897d5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/caf284ea130b600a7f206942682cfba0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/caf284ea130b600a7f206942682cfba0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/46cbf03339c217c81db667354dd10038/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/46cbf03339c217c81db667354dd10038/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/dd52bf4ac15eb2d071141fc2d5ebce8d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/dd52bf4ac15eb2d071141fc2d5ebce8d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/3368d0551e8f66a2312fe9598827c9eb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/3368d0551e8f66a2312fe9598827c9eb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f6cb5d1bf0823c174379a64cd8a6444e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f6cb5d1bf0823c174379a64cd8a6444e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/16145cabaa356ac3d3d097a206e94842/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/16145cabaa356ac3d3d097a206e94842/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/08727ee066d22d8d64e545a467552882/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/08727ee066d22d8d64e545a467552882/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/78bd06b29517dee144fdeec2ed333748/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/78bd06b29517dee144fdeec2ed333748/AndroidManifest.xml:4:5-43
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7e3a3e5e286500861f2624f8bd3a8783/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saritdas/AndroidStudioProjects/videocall/app/src/main/AndroidManifest.xml
+service#com.quickblox.messages.services.SubscribeTaskManager
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:11:9-18:19
+	android:exported
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:13:13-36
+	android:permission
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:14:13-93
+	android:name
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:12:13-80
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:15:13-17:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:16:17-87
+	android:name
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:16:25-84
+service#com.quickblox.messages.services.SubscribeService
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:19:9-23:19
+	android:exported
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:21:13-37
+	android:permission
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/56dcd2605340d324017e44d28967fa01/AndroidManifest.xml:20:13-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/73eda58c4189974b84f1bc022696afce/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/91fdb99b111ab7805db94bebe0ccdd3c/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/91fdb99b111ab7805db94bebe0ccdd3c/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/73eda58c4189974b84f1bc022696afce/AndroidManifest.xml:23:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/bf2366035d3884072acdd41600b4b392/AndroidManifest.xml:32:25-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a09a4dfe43d79adf0f6da6c1fbc377d4/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a09a4dfe43d79adf0f6da6c1fbc377d4/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a09a4dfe43d79adf0f6da6c1fbc377d4/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a09a4dfe43d79adf0f6da6c1fbc377d4/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:22:5-79
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/d36962c07507892062bace2f167a4197/AndroidManifest.xml:12:5-79
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/d36962c07507892062bace2f167a4197/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9ce3622673c9302d143a2f025177f3d2/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/91d858c35f9393b3b58c5d6d35d03bd6/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:29:9-63
+permission#com.quickblox.sample.groupchatwebrtc.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:32:22-76
+uses-permission#com.quickblox.sample.groupchatwebrtc.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.quickblox.sample.groupchatwebrtc
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:39:13-43:29
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/50296b60a6315e70fa5661b683561e51/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/00969854f560a2c35e0cf182dd8fb575/AndroidManifest.xml:9:13-77
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fed82e977f8d0d6ba211ae0a0c897d5/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fed82e977f8d0d6ba211ae0a0c897d5/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/saritdas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fed82e977f8d0d6ba211ae0a0c897d5/AndroidManifest.xml:26:13-58
