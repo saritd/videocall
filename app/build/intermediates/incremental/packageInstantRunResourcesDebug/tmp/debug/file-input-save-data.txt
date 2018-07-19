@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jul 19 19:29:48 EDT 2018
+#Thu Jul 19 19:58:03 EDT 2018
 17.baseType=DIRECTORY
 4.path=fonts/RobotoSlab-Thin.ttf
 25.base=/Users/saritdas/AndroidStudioProjects/videocall/app/build/intermediates/assets/debug

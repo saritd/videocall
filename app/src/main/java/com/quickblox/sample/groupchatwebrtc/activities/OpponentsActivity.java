@@ -142,7 +142,7 @@ public class OpponentsActivity extends BaseActivity {
         opponentCallButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startCall(false);
+                startCall(true);
             }
         });
     }
