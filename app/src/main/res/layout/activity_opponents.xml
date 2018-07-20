@@ -21,18 +21,30 @@
         android:paddingTop="@dimen/padding_top" />
     </ScrollView>
 
-    <RelativeLayout
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:baselineAligned="true"
+        android:orientation="horizontal">
         <Button
             android:id="@+id/call_opponent_button"
-            android:layout_width="match_parent"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:background="@color/grey"
             android:textColor="@color/white"
-            android:text="CALL" />
+            android:layout_marginLeft="10dp"
+            android:text="VIDEO" />
 
-    </RelativeLayout>
+        <Button
+            android:id="@+id/audio_call_opponent_button"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="@color/grey"
+            android:textColor="@color/white"
+            android:layout_marginLeft="10dp"
+            android:text="AUDIO" />
+
+    </LinearLayout>
 
 
 

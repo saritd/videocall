@@ -45,6 +45,7 @@ public class OpponentsActivity extends BaseActivity {
     private boolean isRunForCall;
     private WebRtcSessionManager webRtcSessionManager;
     private Button opponentCallButton;
+    private Button opponentAudioCallButton;
 
     private PermissionsChecker checker;
 
@@ -143,6 +144,14 @@ public class OpponentsActivity extends BaseActivity {
             @Override
             public void onClick(View view) {
                 startCall(true);
+            }
+        });
+
+        opponentAudioCallButton = (Button) findViewById(R.id.audio_call_opponent_button);
+        opponentAudioCallButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startCall(false);
             }
         });
     }

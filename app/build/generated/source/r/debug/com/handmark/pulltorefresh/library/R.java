@@ -82,27 +82,27 @@ public final class R {
         public static final int progressbar_indeterminate_holo8 = 0x7f0800c1;
     }
     public static final class id {
-        public static final int both = 0x7f090026;
-        public static final int disabled = 0x7f090049;
-        public static final int fl_inner = 0x7f090058;
-        public static final int fl_inner_for_google_style = 0x7f090059;
-        public static final int google = 0x7f09005f;
-        public static final int gridview = 0x7f090061;
-        public static final int manualOnly = 0x7f090082;
-        public static final int pullDownFromTop = 0x7f0900a0;
-        public static final int pullFromEnd = 0x7f0900a1;
-        public static final int pullFromStart = 0x7f0900a2;
-        public static final int pullUpFromBottom = 0x7f0900a3;
-        public static final int pull_to_refresh_image = 0x7f0900a4;
-        public static final int pull_to_refresh_progress = 0x7f0900a5;
-        public static final int pull_to_refresh_sub_text = 0x7f0900a6;
-        public static final int pull_to_refresh_text = 0x7f0900a7;
-        public static final int pulling_left_progressbar = 0x7f0900a8;
-        public static final int pulling_progress = 0x7f0900a9;
-        public static final int pulling_right_progressbar = 0x7f0900aa;
-        public static final int refreshing_progress = 0x7f0900ac;
-        public static final int scrollview = 0x7f0900e1;
-        public static final int webview = 0x7f09012e;
+        public static final int both = 0x7f090027;
+        public static final int disabled = 0x7f09004a;
+        public static final int fl_inner = 0x7f090059;
+        public static final int fl_inner_for_google_style = 0x7f09005a;
+        public static final int google = 0x7f090060;
+        public static final int gridview = 0x7f090062;
+        public static final int manualOnly = 0x7f090083;
+        public static final int pullDownFromTop = 0x7f0900a1;
+        public static final int pullFromEnd = 0x7f0900a2;
+        public static final int pullFromStart = 0x7f0900a3;
+        public static final int pullUpFromBottom = 0x7f0900a4;
+        public static final int pull_to_refresh_image = 0x7f0900a5;
+        public static final int pull_to_refresh_progress = 0x7f0900a6;
+        public static final int pull_to_refresh_sub_text = 0x7f0900a7;
+        public static final int pull_to_refresh_text = 0x7f0900a8;
+        public static final int pulling_left_progressbar = 0x7f0900a9;
+        public static final int pulling_progress = 0x7f0900aa;
+        public static final int pulling_right_progressbar = 0x7f0900ab;
+        public static final int refreshing_progress = 0x7f0900ad;
+        public static final int scrollview = 0x7f0900e2;
+        public static final int webview = 0x7f09012f;
     }
     public static final class layout {
         public static final int pull_to_refresh_header_google_style = 0x7f0b0048;
